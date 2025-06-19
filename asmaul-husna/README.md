@@ -160,4 +160,4 @@ INSERT INTO asmaul_husna (arab, indo, latin) VALUES
 
 ## JSON Format
 
-[See Here](https://github.com/dyazincahya/muslim-kit-database/blob/main/asmaul-husna/asmaul-husna.json)
+[See Here](https://github.com/dyazincahya/islamic-json/blob/main/asmaul-husna/asmaul-husna.json)
