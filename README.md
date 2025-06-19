@@ -1,2 +1,2 @@
-# Dua & Dhikr json
-Sunnah Dua &amp; Dhikr
+# Islamic JSON
+All data json about Islam
