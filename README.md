@@ -14,6 +14,8 @@ You can access *islamic json* data free via CDN.
 
 https://cdn.jsdelivr.net/gh/dyazincahya/islamic-json/asmaul-husna/asmaul-husna.json
 
+> 📝 asmaul-husna = `{_DIR_}` 📝 asmaul-husna.json = `{_FILENAME_}`.json 
+
 ### 🚀 statically
 
 *Format*
@@ -23,3 +25,5 @@ https://cdn.jsdelivr.net/gh/dyazincahya/islamic-json/asmaul-husna/asmaul-husna.j
 *Example*
 
 https://cdn.statically.io/gh/dyazincahya/islamic-json/main/asmaul-husna/asmaul-husna.json
+
+> 📝 main = `{_BRANCH_}` 📝 asmaul-husna = `{_DIR_}` 📝 asmaul-husna.json = `{_FILENAME_}`.json
