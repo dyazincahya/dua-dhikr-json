@@ -4,7 +4,7 @@ All data json about Islam
 ## CDN
 You can access *islamic json* data free via CDN.
 
-### jsdelvr
+### 🚀 jsdelvr
 
 *Format*
 
@@ -14,7 +14,7 @@ You can access *islamic json* data free via CDN.
 
 https://cdn.jsdelivr.net/gh/dyazincahya/islamic-json/asmaul-husna/asmaul-husna.json
 
-### statically
+### 🚀 statically
 
 *Format*
 
