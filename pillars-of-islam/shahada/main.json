@@ -2,7 +2,7 @@
     "icon": "fas fa-star-and-crescent",
     "title": {
         "id": "Syahadat",
-        "en": "Shahadat"
+        "en": "Shahada"
     },
     "content": {
         "arrabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ الله",
@@ -13,7 +13,7 @@
         },
         "extras": {
             "id": "<h2>Makna Syahadat</h2><p>Syahadat adalah kesaksian atau ikrar yang merupakan rukun Islam pertama. Syahadat terdiri dari dua kalimat kesaksian yang menjadi dasar keimanan seorang Muslim.</p><p>Kalimat syahadat merupakan pintu gerbang seseorang untuk masuk ke dalam agama Islam. Dengan mengucapkan kalimat syahadat dengan penuh keyakinan, seseorang telah menyatakan dirinya sebagai seorang Muslim.</p><p>Syahadat terdiri dari dua bagian:</p><ol><li><strong>Syahadat Tauhid</strong>: Kesaksian bahwa tidak ada Tuhan selain Allah</li><li><strong>Syahadat Rasul</strong>: Kesaksian bahwa Nabi Muhammad adalah utusan Allah</li></ol>",
-            "en": "<h2>Meaning of Shahadat</h2><p>Shahadat is the first rukun Islam and it is considered the foundation of Islam. Shahadat consists of two kesaksian that are the basis of a Muslim's keimanan.</p><p>Shahadat is a gate that allows someone to enter Islam. By saying shahadat with full confidence, someone has declared themselves as a Muslim.</p><p>Shahadat consists of two parts:</p><ol><li><strong>Shahadat Tauhid</strong>: Kesaksian that there is no God but Allah</li><li><strong>Shahadat Rasul</strong>: Kesaksian that Prophet Muhammad is the messenger of Allah</li></ol>"
+            "en": "<h2>The Meaning of Shahada</h2><p>The Shahada is a testimony or pledge that constitutes the first pillar of Islam. The Shahada consists of two testimonial statements that form the foundation of a Muslim's faith.</p><p>The Shahada is the gateway for someone to enter the religion of Islam. By reciting the Shahada with full conviction, a person declares themselves a Muslim.</p><p>The Shahada consists of two parts:</p><ol><li><strong>Shahada of Tauhid</strong>: The testimony that there is no God but Allah.</li><li><strong>Shahada of Rasul</strong>: The testimony that Prophet Muhammad is the Messenger of Allah.</li></ol>"
         }
     }
 }
