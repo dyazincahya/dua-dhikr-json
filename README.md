@@ -4,7 +4,7 @@ All data json about Islam
 ## CDN
 You can access *islamic json* data free via CDN.
 
-### 🚀 jsdelvr
+### 🚀 jsdelvr (Limit: Max 20 MB)
 
 *Format*
 
@@ -16,7 +16,7 @@ https://cdn.jsdelivr.net/gh/dyazincahya/islamic-json/asmaul-husna/asmaul-husna.j
 
 > 📝 asmaul-husna = `{_DIR_}` 📝 asmaul-husna.json = `{_FILENAME_}`.json 
 
-### 🚀 statically
+### 🚀 statically (Limit: Max 50 MB)
 
 *Format*
 
